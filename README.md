@@ -2,18 +2,6 @@
 Song Genre Classification
 Welcome to the Song Genre Classification project! This project aims to classify songs into their respective genres using machine learning techniques.
 
-Table of Contents
-Introduction
-Features
-Dataset
-Installation
-Usage
-Models
-Results
-Contributing
-License
-Contact
-Introduction
 The goal of this project is to develop a machine learning model that can accurately classify songs into genres such as rock, pop, classical, jazz, etc. This can be useful for music streaming services, recommendation systems, and music enthusiasts.
 
 Features
