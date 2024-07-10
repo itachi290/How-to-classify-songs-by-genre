@@ -30,5 +30,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 Contact
 For any questions or feedback, please contact:
 
+Name:Rishabh chaudhary
 E-mail: rishi.rajuaipur@gamil.com
 GitHub: itachi290
